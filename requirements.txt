@@ -2,3 +2,6 @@ telethon
 python-dotenv
 aiofiles
 TelethonFakeTLS
+python-dateutil
+cryptg
+PySocks
